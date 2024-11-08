@@ -35,7 +35,7 @@ Show all the records where the category is 'Movie' and the type is 'Comedies' or
 Q8: Tom Cruise Appearances
 Find out how many movies/shows feature Tom Cruise.
 
-Q9: Netflix Ratings
+Q9: Netflix Ratings.
 List all the different ratings defined by Netflix.
 
 Q9.1: 'TV-14' Movies in Canada
